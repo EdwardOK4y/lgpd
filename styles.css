@@ -43,7 +43,7 @@ nav ul li {
 nav ul li a {
   color: #fff;
   text-decoration: none;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 nav ul li a:hover {
@@ -90,3 +90,4 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
